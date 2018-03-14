@@ -12,3 +12,11 @@ C:\Users\USER\AppData\Local\Temporary Projects\Class4\obj\x86\Debug\Class4.FrmDa
 C:\Users\USER\documents\visual studio 2010\Projects\Class4\Class4\obj\x86\Debug\Class4.exe
 C:\Users\USER\documents\visual studio 2010\Projects\Class4\Class4\obj\x86\Debug\Class4.xml
 C:\Users\USER\documents\visual studio 2010\Projects\Class4\Class4\obj\x86\Debug\Class4.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Class4\Class4\bin\Debug\Class4.exe
+C:\Users\USER\documents\visual studio 2010\Projects\Class4\Class4\bin\Debug\Class4.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Class4\Class4\bin\Debug\Class4.xml
+C:\Users\USER\documents\visual studio 2010\Projects\Class4\Class4\obj\x86\Debug\Class4.FrmLogin.resources
+C:\Users\USER\documents\visual studio 2010\Projects\Class4\Class4\obj\x86\Debug\Class4.FrmDashBoard.resources
+C:\Users\USER\documents\visual studio 2010\Projects\Class4\Class4\obj\x86\Debug\Class4.FrmKCPESelection.resources
+C:\Users\USER\documents\visual studio 2010\Projects\Class4\Class4\obj\x86\Debug\Class4.Resources.resources
+C:\Users\USER\documents\visual studio 2010\Projects\Class4\Class4\obj\x86\Debug\Class4.vbproj.GenerateResource.Cache
